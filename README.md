@@ -7,9 +7,12 @@
 - 💻 Enamorado del código: Disfruto resolviendo problemas complejos y convirtiendo ideas en realidad a través del poder de la programación.
 - 🌐 Explorador de tecnologías: Siempre estoy aprendiendo y experimentando con las últimas herramientas y tecnologías para mantenerme al tanto de las tendencias del desarrollo web.
 - 🚀 Apasionado por el aprendizaje continuo: Cada proyecto es una oportunidad para crecer y mejorar mis habilidades.
-- ¿Qué puedo hacer?
-- 🛠️ Desarrollo Backend: Node.js, Express, MongoDB, PostgreSQL - Proximamente Nest.js.
-- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js - Proximamente Next.js.
+
+## Tecnologias
+- 🛠️ Desarrollo Backend: Node.js, Express, MongoDB, PostgreSQL.
+ 
+- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Next.js.
+  
 - 🔧 Herramientas y Tecnologías: Git, GitHub, VS Code, thunder client.
   
 ## ¡Echa un vistazo a mis repositorios!
