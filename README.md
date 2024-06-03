@@ -1,7 +1,7 @@
 # ¡Hola a todos! 👋
 ## ¡Bienvenidos a mi perfil de desarrollador!
 
- Soy Julian, un apasionado Full Stack Developer con una pasión ardiente por la creación de aplicaciones. Desde la arquitectura del backend hasta los detalles pulidos del frontend, me encanta sumergirme en cada aspecto del desarrollo de software.
+ Soy Julian, un apasionado Full Stack Developer con pasión por la creación de aplicaciones. Desde la arquitectura del backend hasta los detalles pulidos del frontend, me encanta sumergirme en cada aspecto del desarrollo de software.
 
 ## Sobre mí
 - 💻 Enamorado del código: Disfruto resolviendo problemas complejos y convirtiendo ideas en realidad a través del poder de la programación.
@@ -11,7 +11,7 @@
 ## Tecnologias
 - 🛠️ Desarrollo Backend: Node.js, Express, MongoDB, PostgreSQL.
  
-- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Next.js.
+- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Next.js, Astro.
   
 - 🔧 Herramientas y Tecnologías: Git, GitHub, VS Code, thunder client.
   
